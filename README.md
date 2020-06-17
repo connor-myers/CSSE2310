@@ -21,3 +21,5 @@ Functionality Marks: 40.20/42.00
 ### Assignment Four
 
 Assignment Four was a networking assignment which (very simplistically) modelled an airport system. More information on this can be found in the spec sheet.
+
+Functionality Marks: 44/44 

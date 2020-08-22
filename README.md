@@ -1,4 +1,4 @@
-CSSE2310 is a introductory systems programming course at the University of Queensland. The course is taught in C.
+CSSE2310 is a introductory systems programming course at the University of Queensland. This repo has all three of my solutions to the programming assignments. I received a high distinction in this course.
 
 ### Assignment One
 
@@ -12,8 +12,8 @@ This was a debugging assignment held on the university's remote server, which is
 
 ### Assignment Three
 
-Assignment Three was yet another terminal based game, but the learning aspects for this game was processes (specifically, forking) and inter-process communication using pipes.
+Assignment Three was yet another terminal based game, but the learning goals for this assignment was processes (specifically, forking) and inter-process communication using pipes.
 
 ### Assignment Four
 
-Assignment Four was a networking assignment which (very simplistically) modelled an airport system.
+Assignment Four was a networking assignment which (very simplistically) modelled communications within an airport over TCP.

@@ -1,4 +1,4 @@
-CSSE2310 is a introductory systems programming course at the University of Queensland. This repo has my solutions to the three programming assignments in the course. I received a high distinction in this course.
+CSSE2310 is an introductory systems programming course at the University of Queensland. This repo has my solutions to the three programming assignments in the course. I received a high distinction in this course.
 
 ### Assignment One
 
